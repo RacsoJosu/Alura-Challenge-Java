@@ -12,5 +12,5 @@ es una aplicacion de escritorio para  hacer cambios de moneda, utilizando la api
 **Clonar el repositorio**:
    ```bash
    git clone https://github.com/RacsoJosu/Alura-Challenge-Java.git
-   ejecutar la apliacación
+   ejecutar la aplicación
    
